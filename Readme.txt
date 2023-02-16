@@ -1,1 +1,2 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
